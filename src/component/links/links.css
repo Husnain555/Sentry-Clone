@@ -1,0 +1,52 @@
+.para2 {
+    font-size: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.links2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.logo5 {
+    fill: white;
+    margin: 10px;
+    width: 150px;
+    height: auto;
+    text-align: center;
+    gap: 10px 10px;
+}
+
+.logo7 {
+    width: 60%;
+    height: 35%;
+}
+
+.logo8 {
+    width: 35%;
+    height: 25%;
+}
+
+.logo9 {
+    width: 30%;
+    height: 35%;
+}
+
+.logo10 {
+    width: 35%;
+    height: 35%;
+}
+
+.logo11 {
+    width: 30%;
+    height: 35%;
+}

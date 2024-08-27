@@ -1,0 +1,86 @@
+
+.cdiv1 {
+    /*border: 1px solid black;*/
+    /*padding: 80px;*/
+    text-align: center;
+    width: 70%;
+    margin-bottom: 14px;
+
+}
+
+
+.photo {
+    width: 5%;
+    margin-bottom: 120px;
+    margin-right: 40px;
+
+
+}
+
+.photo1 {
+    margin-top: 13%;
+    width: 60%;
+}
+
+.photodiv {
+
+    text-align: center;
+    padding-left: 81px;
+    margin-bottom: -150px;
+}
+
+.photopara {
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    margin-top: 15%;
+    margin-left: -150px;
+
+}
+
+.pdiv {
+    margin-right: 316%;
+    margin-left: -137px;
+    margin-top: 13%;
+    border-radius: 50%;
+    border: 1px solid white;
+    width: 50%;
+    height: 14%;
+    background-color: white;
+}
+
+.photoh2 {
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    margin-right: 110%;
+    margin-bottom: -3%;
+    /*margin-top: 5px;*/
+    margin-left: -76px;
+
+}
+
+.photoh3 {
+    margin-left: -79px;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    margin-right: 106%;
+    margin-bottom: -30%;
+
+}
+
+.btn77 {
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #3a1d60;
+    border: 2px solid #e1567c;
+    animation: 1s;
+    cursor: pointer;
+}
+
+.btn77:hover {
+    background-color: #e1567c;
+}

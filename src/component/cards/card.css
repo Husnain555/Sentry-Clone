@@ -1,0 +1,37 @@
+.card__img {
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+
+
+}
+
+.card__title {
+    font-size: 10px;
+    background-color: white;
+    color: #3a1d60;
+    padding: 10px;
+
+}
+
+.card__description {
+    font-size: 10px;
+    background-color: white;
+    color: #3a1d60;
+    padding: 10px;
+
+
+}
+
+.card__body {
+    background-color: white;
+
+
+}
+
+.card {
+    border-radius: 10px;
+    border: 1px solid #3a1d60;
+    margin-top: 15%;
+    background-color: white;
+}

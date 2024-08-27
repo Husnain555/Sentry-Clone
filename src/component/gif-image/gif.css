@@ -1,0 +1,27 @@
+.image{
+    position: relative;
+    width: 65%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 100px;
+    /*width: 300px; !* Adjust as needed *!*/
+    /*height: 300px;*/
+    /*margin-top: %;*/
+
+
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.gif1{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 15%;
+
+}
+
